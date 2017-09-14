@@ -1,0 +1,105 @@
+.padding {
+  padding-left:10px;
+  padding-right:5px;
+  padding-bottom:20px;
+  padding-top:0px;
+}
+
+.container {
+  margin:auto;
+    padding: 10px;
+    width: 50%;
+}
+
+/*.margin {
+  margin-left:10px;
+  margin-right:5px;
+  margin-bottom:20px;
+  margin-top:0px;
+}*/
+
+.postion {
+  position: fixed;
+  top:20px;
+  left:50%;
+}
+
+.display {
+  display: inline-block;
+}
+
+.float {
+  float: left;
+}
+
+.height {
+  height:500px;
+}
+
+.width {
+  width:700px;
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.border-bottom {
+  border-bottom: 1px solid black;
+}
+
+.font-style {
+  font-style: italic;
+}
+
+.font-weight {
+  font-weight: bold;
+}
+
+.font-size {
+  font-size: 24px;
+}
+
+.font-family {
+  font-family: arial;
+}
+
+.font-family2 {
+    font-family:cursive;
+}
+
+.font-family3 {
+    font-family:fantasy;
+}
+
+.line-height {
+  line-height: 30px;
+}
+
+.letter-spacing {
+  letter-spacing: 1px;
+}
+
+.text-align {
+text-align: center;
+}
+
+.text-transform {
+  text-transform: uppercase;
+}
+
+.background-color {
+    background-color:lightsalmon;
+}
+
+.background-color2 {
+    background-color:darkturquoise;
+}
+
+.background-color3 {
+    background-color: deeppink;
+}
+
+.h1 {
+    color: white;
+}
